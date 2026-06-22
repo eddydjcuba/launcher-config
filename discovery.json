@@ -1,0 +1,18 @@
+{
+  "mode": "zerotier",
+  "enabled": true,
+
+  "zerotier": {
+    "network_id": "aedf7212d0f8c13f",
+    "backend": "http://10.147.20.1:7041",
+    "join_timeout_ms": 45000
+  },
+
+  "direct": {
+    "backend": "http://97.69.12.41:7041"
+  },
+
+  "zt_msi_url": "https://download.zerotier.com/dist/ZeroTier%20One.msi",
+
+  "message": ""
+}
