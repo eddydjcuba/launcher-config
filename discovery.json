@@ -3,7 +3,7 @@
   "enabled": true,
 
   "zerotier": {
-    "network_id": "aedf7212d0f8c13f",
+    "network_id": "4dcf631fc0",
     "backend": "http://10.147.20.1:7041",
     "join_timeout_ms": 45000
   },
