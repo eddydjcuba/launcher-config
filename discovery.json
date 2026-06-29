@@ -9,7 +9,7 @@
   },
 
   "direct": {
-    "backend": "http://97.69.12.41:7041"
+    "backend": "http://192.168.0.103:7041"
   },
 
   "zt_msi_url": "https://download.zerotier.com/dist/ZeroTier%20One.msi",
